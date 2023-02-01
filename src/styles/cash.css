@@ -1,0 +1,61 @@
+.ccc
+{
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    height: 725px;
+    padding-top:1px;
+}
+.barrr
+{
+    background-image:url("D:\cart\src\styles\1.webp");
+    background-color:black;
+    object-fit: fill;
+    background-size:1000px;
+    opacity:90%;
+    height:649px;
+    width:800px;
+    margin-top:80px;
+    margin-left:400px;
+}
+.cas{
+    height:100px;
+    margin-left:300px;
+    margin-top:10px;
+    opacity:80%;
+    
+
+}
+.sbb11
+{
+    margin-top:200px;
+    margin-left:350px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}
+.sbb22
+{
+    margin-top:30px;
+    margin-left:350px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}
+.sbb33
+{
+    margin-top:30px;
+    margin-left:350px;
+    height:90px;
+    width:300px;
+    text-align: center;
+
+}
+.paysb11
+{
+    margin-top:30px;
+    margin-left:350px;
+    height:30px;
+    width:300px;
+    text-align: center;
+}

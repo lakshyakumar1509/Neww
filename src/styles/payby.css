@@ -1,0 +1,67 @@
+.paybybg
+{
+    background-color:cornsilk;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:100px;
+    padding:1px;
+
+}
+.bxs1
+{
+  background-image:url("D:\cart\src\styles\1.webp");
+  background-color:rgb(59, 49, 1);
+  background-repeat: no-repeat;
+  background-position: 150px;
+  height:600px;
+  width:500px;
+  margin-top:50px;
+  margin-left:500px;
+}
+.bxs2
+{
+  background-color:rgb(84, 71, 2);
+  height:70px;
+  width:500px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: xx-large;
+}
+
+
+.so
+{
+  margin-top:100px;
+  background-color:rgb(229, 220, 220);
+  opacity:80%;
+}
+.oc1
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.oc2
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.oc3
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.oc4
+{
+  margin-left:30px;
+  font-weight:bolder;
+}
+.bt1
+{
+  margin-left: 235px;
+  margin-top:50px; 
+}
+.b{
+  background-color: aliceblue;
+  padding:12px 11px;
+  cursor: pointer;
+}
